@@ -1,3 +1,4 @@
+# THIS REPO HAS BEEN MOVED TO https://github.com/Gladsheimr/mjolnir
 # Mjolnir
 "Hammer of the gods, made in the heart of the densest stars"
 
